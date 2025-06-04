@@ -24,8 +24,13 @@ I am a passionate B.Tech CSE student aiming to become a software engineer. Here 
 
 ### Crop Area Mapping Using Deep Learning
 - Used satellite data and deep learning for agricultural monitoring  
-- Technologies: Python, Deep Learning libraries (TensorFlow/PyTorch)  
+- Technologies: Python, Deep Learning libraries (TensorFlow/PyTorch)
 
+  
+### Student Record System  
+- Built a full-stack application to manage student data with features for adding, updating, deleting, and viewing records.  
+- Technologies: React.js, Node.js, Express.js, MongoDB Atlas, JWT authentication, Cloudinary for media uploads.  
+- Implemented secure password hashing and token-based authentication for user management.
 
 
 ## 🛠 Skills
