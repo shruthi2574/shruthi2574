@@ -40,7 +40,7 @@ I am a passionate B.Tech 2nd-year student aiming to become a software engineer. 
 ## 📄 Portfolio Link
 
 Check out my full portfolio here:  
-[Notion Portfolio](YOUR_NOTION_PUBLIC_LINK_HERE)
+https://www.notion.so/Gugulothu-Shruthi-Porfolio-1db4668ec57980c781bee1161dbdd69f?pvs=4
 
 ---
 
