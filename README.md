@@ -20,7 +20,7 @@ I am a passionate B.Tech 2nd-year student aiming to become a software engineer. 
 ### Dictionary App (API Integration)
 - A Python app that fetches word meanings using a dictionary API  
 - Technologies: Python, requests module, JSON parsing  
-- [GitHub Repo Link](#) *(replace with your project repo URL)*
+
 
 ### Crop Area Mapping Using Deep Learning
 - Used satellite data and deep learning for agricultural monitoring  
