@@ -1,7 +1,7 @@
 # Gugulothu Shruthi's Portfolio
 
 Welcome to my portfolio repository!  
-I am a passionate B.Tech 2nd-year student aiming to become a software engineer. Here you’ll find my projects, skills, and contact info.
+I am a passionate B.Tech CSE student aiming to become a software engineer. Here you’ll find my projects, skills, and contact info.
 
 ---
 
