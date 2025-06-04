@@ -25,11 +25,8 @@ I am a passionate B.Tech 2nd-year student aiming to become a software engineer. 
 ### Crop Area Mapping Using Deep Learning
 - Used satellite data and deep learning for agricultural monitoring  
 - Technologies: Python, Deep Learning libraries (TensorFlow/PyTorch)  
-- [Project Details](#) *(add link or explanation)*
 
-*(Add more projects here with short descriptions and links)*
 
----
 
 ## 🛠 Skills
 
