@@ -36,7 +36,7 @@ I am a passionate B.Tech CSE student aiming to become a software engineer. Here 
 ## 🛠 Skills
 
 - Programming: Python, Java, C  
-- Web Development: HTML, CSS, JavaScript (optional)  
+- Web Development: HTML, CSS, JavaScript  
 - Tools: Git, GitHub, VS Code  
 - Concepts: Data Structures, Algorithms, API Integration
 
