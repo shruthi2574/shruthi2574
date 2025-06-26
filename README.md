@@ -21,28 +21,28 @@ I am a passionate B.Tech CSE student aiming to become a software engineer. Here 
 👉 https://github.com/shruthi2574/dictionary-app.git
 
 🔹 **Wikipedia Summarizer** — Command-line app that provides summaries of any topic using the Wikipedia API.  
-👉 [GitHub Repo ↗](https://github.com/shruthi2574/-Wikipedia-Summarizer)
+👉 https://github.com/shruthi2574/-Wikipedia-Summarizer.git
 
 🔹 **AI-Powered Resume Analyzer** — Compares a resume with a job description using NLP and provides a match score.  
-👉 [GitHub Repo ↗](https://github.com/shruthi2574/AI-Powered-Resume-Analyzer-)
+👉 https://github.com/shruthi2574/AI-Powered-Resume-Analyzer-.git
 
 🔹 **NLP-Based Tollywood Movie Recommendation System** — Emotion-aware chatbot recommending uplifting Tollywood movies using sentiment analysis.  
-👉 [GitHub Repo ↗](https://github.com/shruthi2574/NLP-Based-Tollywood-Movie-Recommendation-System)
+👉  https://github.com/shruthi2574/NLP-Based-Tollywood-Movie-Recommendation-System.git
 
 🔹 **Weather Dashboard – Java GUI App** — A Java Swing GUI app that displays city-wise weather reports via dropdown selection.  
-👉 [GitHub Repo ↗](https://github.com/shruthi2574/Weather-Dashboard-Java-GUI)
+👉 https://github.com/shruthi2574/Weather-Dashboard-Java-Swing-GUI-App.git
 
 🔹 **AI-Powered Cover Letter Generator using NLP** — Generates tailored, role-aware cover letters based on uploaded resumes and job descriptions.  
-👉 [GitHub Repo ↗](https://github.com/shruthi2574/AI-Powered-Cover-Letter-Generator)
+👉 https://github.com/shruthi2574/AI-Powered-Cover-Letter-Generator-using-NLP.git
 
 🔹 **Fake News Estimator using Hugging Face Transformers** — Classifies news credibility using pre-trained sentiment models (no dataset required).  
-👉 [GitHub Repo ↗](https://github.com/shruthi2574/Fake-News-Estimator-HuggingFace)
+👉  https://github.com/shruthi2574/Fake-News-Estimator-using-Hugging-Face-Transformers.git
 
 🔹 **AI-Powered Job Recommendation System** — Recommends jobs by matching user resume skills with job listings using cosine similarity.  
-👉 [GitHub Repo ↗](https://github.com/shruthi2574/AI-Powered-Job-Recommendation-System)
+👉https://github.com/shruthi2574/AI-Powered-Job-Recommendation-System.git
 
 🔹 **Student Record Management System** — A basic Python CLI system for adding, searching, and managing student records.  
-👉 [GitHub Repo ↗](https://github.com/shruthi2574/Student-Record-Management-System)
+👉 https://github.com/shruthi2574/student-record-system.git
 
 ---
 
