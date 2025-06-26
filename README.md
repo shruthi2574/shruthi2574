@@ -18,7 +18,7 @@ I am a passionate B.Tech CSE student aiming to become a software engineer. Here 
 ## 📂 GitHub Projects
 
 🔹 **Dictionary App** — Python CLI that fetches word definitions using a dictionary API.  
-👉 [GitHub Repo ↗](https://github.com/shruthi2574/dictionary-app)
+👉 https://github.com/shruthi2574/dictionary-app.git
 
 🔹 **Wikipedia Summarizer** — Command-line app that provides summaries of any topic using the Wikipedia API.  
 👉 [GitHub Repo ↗](https://github.com/shruthi2574/-Wikipedia-Summarizer)
