@@ -45,6 +45,7 @@ I am a passionate B.Tech CSE student aiming to become a software engineer. Here 
 👉 https://github.com/shruthi2574/student-record-system.git
 
 🔹 **Country Info Finder with Border Comparison** —Python app that fetches country info and compares statistics with its neighboring countries using the REST Countries API. 
+<br>
 👉https://github.com/shruthi2574/-Country-Info-Finder-with-Border-Comparison.git
 
 ---
