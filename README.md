@@ -48,7 +48,7 @@ I am a passionate B.Tech CSE student aiming to become a software engineer. Here 
 <br>
 👉https://github.com/shruthi2574/-Country-Info-Finder-with-Border-Comparison.git
 
-🔹 **Movie Search App — Interactive web app** — that allows users to search for movies and displays detailed information including poster, genre, plot, and ratings using the OMDb API.
+🔹 **Movie Search App** — Interactive web app that allows users to search for movies and displays detailed information including poster, genre, plot, and ratings using the OMDb API.
 <br>
 👉https://github.com/shruthi2574/Interactive-Movie-Search-Web-App.git
 
